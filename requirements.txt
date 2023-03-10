@@ -1,0 +1,19 @@
+jupyterlab
+matplotlib
+
+torch==1.12.1; sys_platform=="linux"
+torch==1.13.1; sys_platform=="darwin"
+numpy==1.24.1
+google-cloud-bigquery==3.4.2
+protobuf==3.19.5
+loguru==0.6.0
+pandas==1.5.3
+igraph==0.10.3
+tensorboard==2.11.2
+torch-geometric==2.2.0
+torch-sparse==0.6.16
+torch-cluster==1.6.0
+torch-scatter==2.1.0
+
+torchvision==0.14.1
+

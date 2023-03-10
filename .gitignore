@@ -1,0 +1,4 @@
+/data/*
+/ml-latest-small/*
+.ipynb_checkpoints
+.python-version
